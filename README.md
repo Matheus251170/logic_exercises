@@ -1,3 +1,3 @@
-# logic_exercises
+<h1 align="center">Exercicios de lógica</h1>
 
-<p>:smile:</p>
+<p align=justify>Repositório criado para postar exercicios de lógica da programação em diferentes linguagens.</p>
