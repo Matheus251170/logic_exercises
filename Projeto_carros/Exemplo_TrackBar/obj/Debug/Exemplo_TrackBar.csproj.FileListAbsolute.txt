@@ -1,0 +1,10 @@
+C:\Users\marle\source\repos\Exemplo_TrackBar\bin\Debug\Exemplo_TrackBar.exe.config
+C:\Users\marle\source\repos\Exemplo_TrackBar\bin\Debug\Exemplo_TrackBar.exe
+C:\Users\marle\source\repos\Exemplo_TrackBar\bin\Debug\Exemplo_TrackBar.pdb
+C:\Users\marle\source\repos\Exemplo_TrackBar\obj\Debug\Exemplo_TrackBar.Form1.resources
+C:\Users\marle\source\repos\Exemplo_TrackBar\obj\Debug\Exemplo_TrackBar.Properties.Resources.resources
+C:\Users\marle\source\repos\Exemplo_TrackBar\obj\Debug\Exemplo_TrackBar.csproj.GenerateResource.cache
+C:\Users\marle\source\repos\Exemplo_TrackBar\obj\Debug\Exemplo_TrackBar.csproj.CoreCompileInputs.cache
+C:\Users\marle\source\repos\Exemplo_TrackBar\obj\Debug\Exemplo_TrackBar.exe
+C:\Users\marle\source\repos\Exemplo_TrackBar\obj\Debug\Exemplo_TrackBar.pdb
+C:\Users\marle\source\repos\Exemplo_TrackBar\obj\Debug\Exemplo_TrackBar.csprojAssemblyReference.cache
