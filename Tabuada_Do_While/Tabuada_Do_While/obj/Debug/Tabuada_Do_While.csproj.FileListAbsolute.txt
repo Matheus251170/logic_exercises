@@ -1,0 +1,7 @@
+C:\Users\10\Desktop\DOWhile\Tabuada_Do_While\Tabuada_Do_While\bin\Debug\Tabuada_Do_While.exe.config
+C:\Users\10\Desktop\DOWhile\Tabuada_Do_While\Tabuada_Do_While\bin\Debug\Tabuada_Do_While.exe
+C:\Users\10\Desktop\DOWhile\Tabuada_Do_While\Tabuada_Do_While\bin\Debug\Tabuada_Do_While.pdb
+C:\Users\10\Desktop\DOWhile\Tabuada_Do_While\Tabuada_Do_While\obj\Debug\Tabuada_Do_While.csprojAssemblyReference.cache
+C:\Users\10\Desktop\DOWhile\Tabuada_Do_While\Tabuada_Do_While\obj\Debug\Tabuada_Do_While.csproj.CoreCompileInputs.cache
+C:\Users\10\Desktop\DOWhile\Tabuada_Do_While\Tabuada_Do_While\obj\Debug\Tabuada_Do_While.exe
+C:\Users\10\Desktop\DOWhile\Tabuada_Do_While\Tabuada_Do_While\obj\Debug\Tabuada_Do_While.pdb
