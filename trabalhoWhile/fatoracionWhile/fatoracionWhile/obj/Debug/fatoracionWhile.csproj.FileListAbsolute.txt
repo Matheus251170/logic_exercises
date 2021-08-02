@@ -1,0 +1,7 @@
+C:\Users\10\Desktop\trabalhoWhile\fatoracionWhile\fatoracionWhile\obj\Debug\fatoracionWhile.csprojAssemblyReference.cache
+C:\Users\10\Desktop\trabalhoWhile\fatoracionWhile\fatoracionWhile\obj\Debug\fatoracionWhile.csproj.CoreCompileInputs.cache
+C:\Users\10\Desktop\trabalhoWhile\fatoracionWhile\fatoracionWhile\bin\Debug\fatoracionWhile.exe.config
+C:\Users\10\Desktop\trabalhoWhile\fatoracionWhile\fatoracionWhile\bin\Debug\fatoracionWhile.exe
+C:\Users\10\Desktop\trabalhoWhile\fatoracionWhile\fatoracionWhile\bin\Debug\fatoracionWhile.pdb
+C:\Users\10\Desktop\trabalhoWhile\fatoracionWhile\fatoracionWhile\obj\Debug\fatoracionWhile.exe
+C:\Users\10\Desktop\trabalhoWhile\fatoracionWhile\fatoracionWhile\obj\Debug\fatoracionWhile.pdb
