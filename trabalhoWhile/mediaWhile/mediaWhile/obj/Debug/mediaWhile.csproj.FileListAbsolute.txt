@@ -1,0 +1,7 @@
+C:\Users\10\Desktop\trabalhoWhile\mediaWhile\mediaWhile\bin\Debug\mediaWhile.exe.config
+C:\Users\10\Desktop\trabalhoWhile\mediaWhile\mediaWhile\bin\Debug\mediaWhile.exe
+C:\Users\10\Desktop\trabalhoWhile\mediaWhile\mediaWhile\bin\Debug\mediaWhile.pdb
+C:\Users\10\Desktop\trabalhoWhile\mediaWhile\mediaWhile\obj\Debug\mediaWhile.csprojAssemblyReference.cache
+C:\Users\10\Desktop\trabalhoWhile\mediaWhile\mediaWhile\obj\Debug\mediaWhile.csproj.CoreCompileInputs.cache
+C:\Users\10\Desktop\trabalhoWhile\mediaWhile\mediaWhile\obj\Debug\mediaWhile.exe
+C:\Users\10\Desktop\trabalhoWhile\mediaWhile\mediaWhile\obj\Debug\mediaWhile.pdb
