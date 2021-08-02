@@ -1,0 +1,7 @@
+C:\Users\10\Desktop\trabalhoWhile\dificil\dificil\bin\Debug\dificil.exe.config
+C:\Users\10\Desktop\trabalhoWhile\dificil\dificil\bin\Debug\dificil.exe
+C:\Users\10\Desktop\trabalhoWhile\dificil\dificil\bin\Debug\dificil.pdb
+C:\Users\10\Desktop\trabalhoWhile\dificil\dificil\obj\Debug\dificil.csprojAssemblyReference.cache
+C:\Users\10\Desktop\trabalhoWhile\dificil\dificil\obj\Debug\dificil.csproj.CoreCompileInputs.cache
+C:\Users\10\Desktop\trabalhoWhile\dificil\dificil\obj\Debug\dificil.exe
+C:\Users\10\Desktop\trabalhoWhile\dificil\dificil\obj\Debug\dificil.pdb
