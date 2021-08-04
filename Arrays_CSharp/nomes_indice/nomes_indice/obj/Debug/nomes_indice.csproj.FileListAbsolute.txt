@@ -1,0 +1,7 @@
+C:\Users\10\Desktop\Ativ_Vetores\nomes_indice\nomes_indice\bin\Debug\nomes_indice.exe.config
+C:\Users\10\Desktop\Ativ_Vetores\nomes_indice\nomes_indice\bin\Debug\nomes_indice.exe
+C:\Users\10\Desktop\Ativ_Vetores\nomes_indice\nomes_indice\bin\Debug\nomes_indice.pdb
+C:\Users\10\Desktop\Ativ_Vetores\nomes_indice\nomes_indice\obj\Debug\nomes_indice.csprojAssemblyReference.cache
+C:\Users\10\Desktop\Ativ_Vetores\nomes_indice\nomes_indice\obj\Debug\nomes_indice.csproj.CoreCompileInputs.cache
+C:\Users\10\Desktop\Ativ_Vetores\nomes_indice\nomes_indice\obj\Debug\nomes_indice.exe
+C:\Users\10\Desktop\Ativ_Vetores\nomes_indice\nomes_indice\obj\Debug\nomes_indice.pdb

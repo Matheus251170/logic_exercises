@@ -1,0 +1,7 @@
+C:\Users\10\Desktop\Ativ_Vetores\Num_inverso\Num_inverso\obj\Debug\Num_inverso.csproj.CoreCompileInputs.cache
+C:\Users\10\Desktop\Ativ_Vetores\Num_inverso\Num_inverso\bin\Debug\Num_inverso.exe.config
+C:\Users\10\Desktop\Ativ_Vetores\Num_inverso\Num_inverso\bin\Debug\Num_inverso.exe
+C:\Users\10\Desktop\Ativ_Vetores\Num_inverso\Num_inverso\bin\Debug\Num_inverso.pdb
+C:\Users\10\Desktop\Ativ_Vetores\Num_inverso\Num_inverso\obj\Debug\Num_inverso.exe
+C:\Users\10\Desktop\Ativ_Vetores\Num_inverso\Num_inverso\obj\Debug\Num_inverso.pdb
+C:\Users\10\Desktop\Ativ_Vetores\Num_inverso\Num_inverso\obj\Debug\Num_inverso.csprojAssemblyReference.cache

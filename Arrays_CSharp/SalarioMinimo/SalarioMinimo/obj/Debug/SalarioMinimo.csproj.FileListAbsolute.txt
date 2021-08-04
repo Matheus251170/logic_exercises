@@ -1,0 +1,6 @@
+C:\Users\10\Desktop\Ativ_Vetores\SalarioMinimo\SalarioMinimo\bin\Debug\SalarioMinimo.exe.config
+C:\Users\10\Desktop\Ativ_Vetores\SalarioMinimo\SalarioMinimo\bin\Debug\SalarioMinimo.exe
+C:\Users\10\Desktop\Ativ_Vetores\SalarioMinimo\SalarioMinimo\bin\Debug\SalarioMinimo.pdb
+C:\Users\10\Desktop\Ativ_Vetores\SalarioMinimo\SalarioMinimo\obj\Debug\SalarioMinimo.csproj.CoreCompileInputs.cache
+C:\Users\10\Desktop\Ativ_Vetores\SalarioMinimo\SalarioMinimo\obj\Debug\SalarioMinimo.exe
+C:\Users\10\Desktop\Ativ_Vetores\SalarioMinimo\SalarioMinimo\obj\Debug\SalarioMinimo.pdb
