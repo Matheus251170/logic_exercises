@@ -1,7 +1,0 @@
-C:\Users\7\Desktop\ETEC\P.A\Exemplo2Matrizes\Exemplo2Matrizes\bin\Debug\Exemplo2Matrizes.exe.config
-C:\Users\7\Desktop\ETEC\P.A\Exemplo2Matrizes\Exemplo2Matrizes\bin\Debug\Exemplo2Matrizes.exe
-C:\Users\7\Desktop\ETEC\P.A\Exemplo2Matrizes\Exemplo2Matrizes\bin\Debug\Exemplo2Matrizes.pdb
-C:\Users\7\Desktop\ETEC\P.A\Exemplo2Matrizes\Exemplo2Matrizes\obj\Debug\Exemplo2Matrizes.csproj.CoreCompileInputs.cache
-C:\Users\7\Desktop\ETEC\P.A\Exemplo2Matrizes\Exemplo2Matrizes\obj\Debug\Exemplo2Matrizes.exe
-C:\Users\7\Desktop\ETEC\P.A\Exemplo2Matrizes\Exemplo2Matrizes\obj\Debug\Exemplo2Matrizes.pdb
-C:\Users\7\Desktop\ETEC\P.A\Exemplo2Matrizes\Exemplo2Matrizes\obj\Debug\Exemplo2Matrizes.csprojAssemblyReference.cache

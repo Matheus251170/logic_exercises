@@ -1,0 +1,6 @@
+C:\Users\7\Desktop\ETEC\P.A\SomandoVetores\SomandoVetores\bin\Debug\SomandoVetores.exe.config
+C:\Users\7\Desktop\ETEC\P.A\SomandoVetores\SomandoVetores\bin\Debug\SomandoVetores.exe
+C:\Users\7\Desktop\ETEC\P.A\SomandoVetores\SomandoVetores\bin\Debug\SomandoVetores.pdb
+C:\Users\7\Desktop\ETEC\P.A\SomandoVetores\SomandoVetores\obj\Debug\SomandoVetores.csproj.CoreCompileInputs.cache
+C:\Users\7\Desktop\ETEC\P.A\SomandoVetores\SomandoVetores\obj\Debug\SomandoVetores.exe
+C:\Users\7\Desktop\ETEC\P.A\SomandoVetores\SomandoVetores\obj\Debug\SomandoVetores.pdb
