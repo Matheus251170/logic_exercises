@@ -1,0 +1,7 @@
+C:\Users\10\Desktop\PA\IMC_PA\IMC_PA\bin\Debug\IMC_PA.exe.config
+C:\Users\10\Desktop\PA\IMC_PA\IMC_PA\bin\Debug\IMC_PA.exe
+C:\Users\10\Desktop\PA\IMC_PA\IMC_PA\bin\Debug\IMC_PA.pdb
+C:\Users\10\Desktop\PA\IMC_PA\IMC_PA\obj\Debug\IMC_PA.csprojAssemblyReference.cache
+C:\Users\10\Desktop\PA\IMC_PA\IMC_PA\obj\Debug\IMC_PA.csproj.CoreCompileInputs.cache
+C:\Users\10\Desktop\PA\IMC_PA\IMC_PA\obj\Debug\IMC_PA.exe
+C:\Users\10\Desktop\PA\IMC_PA\IMC_PA\obj\Debug\IMC_PA.pdb
